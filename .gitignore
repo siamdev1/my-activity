@@ -43,6 +43,7 @@ wp-content/backup-db/
 *.tar.gz
 
 # Local Tools / Scripts
+Learn_AI/
 github_green_field.py
 green_field.py
 generate_commits.py
